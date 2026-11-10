@@ -1,0 +1,6 @@
+label,value,limit,percent,status
+Server-A,87,100,87.0,OK
+Server-B,120,100,120.0,OVER LIMIT
+Server-C,45,100,45.0,OK
+Server-D,93,100,93.0,WARNING
+Server-E,101,100,101.0,OVER LIMIT

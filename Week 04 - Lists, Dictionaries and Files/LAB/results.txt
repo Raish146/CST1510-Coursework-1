@@ -1,0 +1,5 @@
+Server-A,OK
+Server-B,OVER LIMIT
+Server-C,OK
+Server-D,WARNING
+Server-E,OVER LIMIT
